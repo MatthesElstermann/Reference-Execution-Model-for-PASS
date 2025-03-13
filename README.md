@@ -1,2 +1,2 @@
 # Reference-Execution-Model-for-PASS
-A referece execution Model for the interpretation for the subject-oriented process mordeling language PASS in PASS
+A reference model for the interpretation/execution of the subject-oriented process modeling language PASS - modelled in PASS.
